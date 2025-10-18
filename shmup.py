@@ -89,11 +89,11 @@ class Bullet(pygame.sprite.Sprite):
             self.kill()
 
 # Загрузка всей игровой графики
-background = pygame.image.load(path.join(img_dir, "blue")).convert()
+background = pygame.image.load(path.join(img_dir, "blue.png")).convert()
 background_rect = background.get_rect()
-player_img = pygame.image.load(path.join(img_dir, "playerLife3_red")).convert()
-meteor_img = pygame.image.load(path.join(img_dir, "meteorBrown_big1")).convert()
-bullet_img = pygame.image.load(path.join(img_dir, "laserRed01")).convert()
+player_img = pygame.image.load(path.join(img_dir, "playerLife3_red.png")).convert()
+meteor_img = pygame.image.load(path.join(img_dir, "meteorBrown_big1.png")).convert()
+bullet_img = pygame.image.load(path.join(img_dir, "laserRed01.png")).convert()
 
 all_sprites = pygame.sprite.Group()
 mobs = pygame.sprite.Group()
