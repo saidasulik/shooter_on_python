@@ -18,3 +18,10 @@ https://colab.research.google.com/drive/1bcx1M0pbnlqz4bawPzBaHpj5_EA-Oih5#scroll
     - git pull
 3. Проверить изменения
     - git status
+
+GitHub
+1. Посмотреть код программы
+   - https://github.com/saidasulik/shooter_on_python
+2. Сообщить о проблеме
+   - https://github.com/saidasulik/shooter_on_python/issues
+   - В Assignees выбери nekrorat
