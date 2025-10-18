@@ -16,3 +16,5 @@ https://colab.research.google.com/drive/1bcx1M0pbnlqz4bawPzBaHpj5_EA-Oih5#scroll
     - git push
 2. Загрузить изменения с GitHub на компьютер
     - git pull
+3. Проверить изменения
+    - git status
